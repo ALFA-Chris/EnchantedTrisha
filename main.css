@@ -1,12 +1,11 @@
 body{
 	margin: 0;
 	padding: 0;
-	background: black;	
+	background: #000;
 }
 
-
 p {
-	font-size: 10px;
+	font-size: 8px;
 	line-height: 8px;
 	text-align: justify;
 	-webkit-background-size: cover;
